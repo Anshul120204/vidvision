@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Menu, Users, Info } from 'lucide-react';
 
 const Header = () => {
